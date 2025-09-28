@@ -91,6 +91,11 @@ For each model:
 - Plotted a **bar chart** comparing model accuracies.
 - Observed which algorithm performs best on the complaint classification task.
 
+- https://github.com/Phany27/KaiburrAssessment5/blob/main/Screenshot%202025-09-28%20231912.png
+- https://github.com/Phany27/KaiburrAssessment5/blob/main/Screenshot%202025-09-28%20231919.png
+- https://github.com/Phany27/KaiburrAssessment5/blob/main/Screenshot%202025-09-28%20231954.png
+- https://github.com/Phany27/KaiburrAssessment5/blob/main/Screenshot%202025-09-28%20232003.png
+
 
 
 ## ⚙️ Installation & Usage
